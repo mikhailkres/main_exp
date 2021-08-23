@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @mikhailkres
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MORVUS
+- 👀 I’m interested in C++, Java, Phyton Development
+- 🌱 I’m currently learning Java, Phyton little bit
+- 💞️ I’m looking to collaborate with my friends and people who will help me
+- 📫 My contacts for communication:
+     https://vk.com/mishanykres
+     mishany.kres@icloud.com
+     https://t.me/morvus_w
+     
 
 <!---
 mikhailkres/mikhailkres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
