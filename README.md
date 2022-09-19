@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MORVUS
 - 👀 I’m interested in C++, Java, Phyton Development
-- 🌱 I’m currently learning Java, Phyton little bit
+- 🌱 I’m currently learning C++, Phyton little bit
 - 💞️ I’m looking to collaborate with my friends and people who will help me
 - 📫 My contacts for communication:
      https://vk.com/mishanykres
