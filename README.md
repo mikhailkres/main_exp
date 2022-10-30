@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Michael
-- 👀 I’m interested in C++, Java, Phyton Development
-- 🌱 I’m currently learning C++, Phyton little bit
-- 💞️ I’m looking to collaborate with my friends and people who will help me
+- 👋 Hi, I’m Michael 💞️ 
 - 📫 My contacts for communication:
      https://vk.com/mishanykres
      mishany.kres@icloud.com
